@@ -1,0 +1,20 @@
+
+1. DESCRIPTION ABOUT PROJECT
+
+A study shows that 1 in a 7 person in India suffer from mental health issues but a very few of those consult any councillors or psychiatrists. This may be due to negligence or the taboo attached to it.
+
+Our android application is a step in this direction which aims to identify the mental health of a person by analysis his/her social interaction. For this we will be using the data from Instagram, Twitter, Facebook his audio samples, real time picture analysis, Google search history, sleep cycle and appetite. We will also be creating a keylogger application using reverse engineering to get his typing history. We will build different machine learning models to process results from this data. All the results will be displayed in the form of a beautifully rendered graph showing the mood of each post along with the well layed out stats.
+
+Along with the possible identification of problem it is necessary to provide solutions to those. From out field work visiting various counsellors and psychiatrists, we could conclude that we need a long term solution to the problem. Thus our solution includes recommendations for books, movies, music, posts based upon his/her current mood. The long term solution which we planned for this problem is to be a connection platform between the person and verified psychiatrists. We plan to provide services like AMA sessions, telehealth services etc thus maintaining the anonymity of the user alongside providing him the solution.
+
+The USP of our product is providing a "Secure scalable solution" which we tried to achieve through this application. Keeping in view the importance of privacy we will not store anything on cloud. All the data will be stored in the user's mobile phone in an encrypted format. We will deploy all our models and server on azure services.
+
+Checkout out the attached PPT.
+
+2. CONTENTS OF PROJECT
+
+The project will run via app.py
+
+3. LOCALHOST initialising
+
+Run command pip3 install -r requirements.txt, and required files will be installed. 
